@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/S_Intro.unity
+    guid: ec195ca8b8069d145a85ad7d117e8c47
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_One.unity
+    guid: ca991c0555389a34b933ebce5fb87cd4
+  - enabled: 1
+    path: Assets/Scenes/S_Stage_One.unity
+    guid: 40d96623f2e4ad34f9c38e175a0785f3
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_Two.unity
+    guid: 759a2812c0de08642b1adf95abd0d7fc
+  - enabled: 1
+    path: Assets/Scenes/S_Stage_Two.unity
+    guid: 27f4bde1e991c0d4b8a4e4c52f8aa6be
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_Three.unity
+    guid: 558bc7713e830344f9126d2cbf79fa5f
+  - enabled: 1
+    path: Assets/Scenes/S_Stage_Three.unity
+    guid: 4b4965dafb851a44caf729397395076a
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_Four.unity
+    guid: 98aea2f6f5af03146b13aa61207437f2
+  - enabled: 1
+    path: Assets/Scenes/S_Stage_Four.unity
+    guid: 97ad667c27a803442bbf570e47916382
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_Five_A.unity
+    guid: a5eb69ac08798cd4f917d83110884d21
+  - enabled: 1
+    path: Assets/Scenes/S_Cut_Five_B.unity
+    guid: 891e028ee5af3ac4681f73e52d410f0e
+  m_configObjects: {}
